@@ -1,0 +1,12 @@
+{
+  "name": "행복한 산이네 스케줄",
+  "short_name": "산이네 스케줄",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FAF6F2",
+  "theme_color": "#FAF6F2",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
